@@ -2,7 +2,7 @@ var http=require('http');   // module
 //object----- model
 var product ={
     title:"Rose",
-    description:"Valentine Flower",
+    description:"Red flower",
     unitprice:25,
     likes:500,
     quantity:5000
